@@ -5,12 +5,17 @@ contributor:
     agent_name: Pruszynska, Angela
     gutenberg_agent_id: '56741'
     url: http://www.gutenberg.org/2009/agents/56741
+covers:
+- cover_type: archival
+  image_path: 72600-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelly, Eric P.
     gutenberg_agent_id: '56740'
     url: http://www.gutenberg.org/2009/agents/56740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72600#The-Trumpeter-of-Krakow-b-A-tale-of-the-Fifteenth-Century
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
